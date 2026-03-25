@@ -3,10 +3,10 @@ entries:
   bifrost:
   - apiVersion: v2
     appVersion: 1.4.11
-    created: "2026-03-22T21:41:34.965063323Z"
+    created: "2026-03-25T08:52:28.678857246Z"
     description: A Helm chart for deploying Bifrost - AI Gateway with unified interface
       for multiple providers
-    digest: 3f33bc7fcdc8d4f09cd3500869331ad5e4a284c346baf5966e858a499a8fba5b
+    digest: 0d720fe292ac60d3c17d2058fcb007957497fbf1773227efad4c10e56753c521
     home: https://www.getmaxim.ai/bifrost
     icon: https://www.getbifrost.ai/favicon.png
     keywords:
@@ -601,4 +601,4 @@ entries:
     urls:
     - https://github.com/maximhq/bifrost/releases/download/helm-chart-v1.3.5/bifrost-1.3.5.tgz
     version: 1.3.5
-generated: "2026-03-22T21:41:34.962407221Z"
+generated: "2026-03-25T08:52:28.674772034Z"
